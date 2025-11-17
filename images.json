@@ -1,82 +1,82 @@
 {
-    "images": [
-        {
-            "imgPath": "/img/covers/socket.png",
-            "imgLocation": "Underscores",
-            "description": "Wallsocket",
-            "date": "10/10"
-        },
-        {
-            "imgPath": "/img/covers/falter.png",
-            "imgLocation": "Glaive",
-            "description": "May It Never Falter",
-            "date": "10/10"
-        },
-        {
-            "imgPath": "/img/covers/twostar.png",
-            "imgLocation": "Mk.gee",
-            "description": "Two Star And the Dream Police",
-            "date": "10/10"
-        },
-        {
-            "imgPath": "/img/covers/ghost.jpg",
-            "imgLocation": "Venturing",
-            "description": "Ghostholding",
-            "date": "9.5/10"
-        },
-        {
-            "imgPath": "/img/covers/revenge.jpg",
-            "imgLocation": "Jane Remover",
-            "description": "Revengeseekrz",
-            "date": "9.5/10"
-        },
-        {
-            "imgPath": "/img/covers/sketch.png",
-            "imgLocation": "Key Vs Locket",
-            "description": "I Felt Like A Sketch",
-            "date": "9/10"
-        },
-        {
-            "imgPath": "/img/covers/sports.png",
-            "imgLocation": "Modern Baseball",
-            "description": "Sports",
-            "date": "9/10"
-        },
-        {
-            "imgPath": "/img/covers/musiq.png",
-            "imgLocation": "Lucy Bedrouqe",
-            "description": "Unmusique",
-            "date": "8.5/10"
-        },
-        {
-            "imgPath": "/img/covers/feng.png",
-            "imgLocation": "Feng",
-            "description": "What The Feng",
-            "date": "8.5/10"
-        },
-        {
-            "imgPath": "/img/covers/bestbuds.jpg",
-            "imgLocation": "Mom Jeans",
-            "description": "Best Buds",
-            "date": "8.5/10"
-        },
-        {
-            "imgPath": "/img/covers/ice.png",
-            "imgLocation": "Bladee",
-            "description": "Icedancer",
-            "date": "8/10"
-        },
-        {
-            "imgPath": "/img/covers/jons.png",
-            "imgLocation": "Daryl Johns",
-            "description": "Daryl Johns",
-            "date": "8/10"
-        },
-        {
-            "imgPath": "/img/covers/staytrue.png",
-            "imgLocation": "Kuru",
-            "description": "Stay True Forever",
-            "date": "8/10"
-        }
+  "images": [
+    {
+      "imgPath": "img/covers/socket.png",
+      "imgLocation": "Underscores",
+      "description": "Wallsocket",
+      "date": "10/10"
+    },
+    {
+      "imgPath": "img/covers/falter.png",
+      "imgLocation": "Glaive",
+      "description": "May It Never Falter",
+      "date": "10/10"
+    },
+    {
+      "imgPath": "img/covers/twostar.png",
+      "imgLocation": "Mk.gee",
+      "description": "Two Star And the Dream Police",
+      "date": "10/10"
+    },
+    {
+      "imgPath": "img/covers/ghost.jpg",
+      "imgLocation": "Venturing",
+      "description": "Ghostholding",
+      "date": "9.5/10"
+    },
+    {
+      "imgPath": "img/covers/revenge.jpg",
+      "imgLocation": "Jane Remover",
+      "description": "Revengeseekrz",
+      "date": "9.5/10"
+    },
+    {
+      "imgPath": "img/covers/sketch.png",
+      "imgLocation": "Key Vs Locket",
+      "description": "I Felt Like A Sketch",
+      "date": "9/10"
+    },
+    {
+      "imgPath": "img/covers/sports.png",
+      "imgLocation": "Modern Baseball",
+      "description": "Sports",
+      "date": "9/10"
+    },
+    {
+      "imgPath": "img/covers/musiq.png",
+      "imgLocation": "Lucy Bedrouqe",
+      "description": "Unmusique",
+      "date": "8.5/10"
+    },
+    {
+      "imgPath": "img/covers/feng.png",
+      "imgLocation": "Feng",
+      "description": "What The Feng",
+      "date": "8.5/10"
+    },
+    {
+      "imgPath": "img/covers/bestbuds.jpg",
+      "imgLocation": "Mom Jeans",
+      "description": "Best Buds",
+      "date": "8.5/10"
+    },
+    {
+      "imgPath": "img/covers/ice.png",
+      "imgLocation": "Bladee",
+      "description": "Icedancer",
+      "date": "8/10"
+    },
+    {
+      "imgPath": "img/covers/jons.png",
+      "imgLocation": "Daryl Johns",
+      "description": "Daryl Johns",
+      "date": "8/10"
+    },
+    {
+      "imgPath": "img/covers/staytrue.png",
+      "imgLocation": "Kuru",
+      "description": "Stay True Forever",
+      "date": "8/10"
+    }
   ]
 }
