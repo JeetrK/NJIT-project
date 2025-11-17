@@ -1,7 +1,7 @@
 let mCurrentIndex = 0; 
 let mImages = []; 
 const mUrl = "images.json"; // Your local JSON file
-const mWaitTime = 7000;
+const mWaitTime = 5000;
 let mTimer = null;
 
 $(document).ready(() => {
@@ -46,9 +46,9 @@ function swapPhoto() {
   let img = mImages[mCurrentIndex];
 
   $("#photo").attr("src", img.imgPath);
-  $(".location").text("Location: " + img.imgLocation);
-  $(".description").text("Description: " + img.description);
-  $(".date").text("Date: " + img.date);
+  $(".location").text("artist: " + img.artist);
+  $(".description").text("album: " + img.album);
+  $(".date").text("Rating: " + img.rating); // Changed from 'Date' to 'Rating'
 }
 
 // Next image (wrap)
@@ -77,3 +77,4 @@ function startTimer() {
     showNextPhoto();
   }, mWaitTime);
 }
+
