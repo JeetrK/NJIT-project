@@ -1,7 +1,7 @@
 body {
     overflow-x: hidden;
     font-family: 'Century Gothic', sans-serif;
-    background-image: url('../img/geometry.jpg');
+    background-image: url('https://wallpapers.com/images/hd/music-notes-background-lsqmtsx5foncd77a.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
@@ -14,7 +14,7 @@ body {
     margin: auto;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 /* Holds the displayed photo */
